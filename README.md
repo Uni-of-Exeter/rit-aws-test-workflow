@@ -1,2 +1,2 @@
-# rit-aws-batch-implementation-test-workflow
-Demonstration workflow for batch-implementation-test
+# rit-aws-test-workflow
+Demonstration workflow for batch testing in AWS
